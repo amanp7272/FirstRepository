@@ -19,7 +19,7 @@
 
 // console.log(Add)
 
-//3 - Function Constructor
+//3 - Function Constructor //small change 
 // Create with 'New' key Word
 // Output of this depend on how we call the function
 // here it's a object it self
